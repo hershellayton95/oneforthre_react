@@ -18,7 +18,6 @@ const App = () => {
         <Input
           type="text"
           placeholder="inserisci un nome"
-          name="name"
           onChange={handleChange}
           value={value}
         />
